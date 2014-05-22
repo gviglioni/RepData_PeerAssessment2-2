@@ -1,0 +1,9 @@
+Data Processing
+
+```{r}
+
+stormData <- read.csv("rawData/StormData.csv")
+
+```
+
+
